@@ -3,7 +3,7 @@
 #Variables
 - Variables that are included in the tidy data set. Renamed for easier understanding compared to original variable names.
 
-"tBodyAccMean()-X" 
+|"tBodyAccMean()-X" 
 "tBodyAccMean()-Y" 
 "tBodyAccMean()-Z" 
 "tBodyAccStandardDeviation()-X" 
